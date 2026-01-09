@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio10_Precios\bin\Debug\net10.0\Ejercicio10_Precios.exe
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio10_Precios\bin\Debug\net10.0\Ejercicio10_Precios.deps.json
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio10_Precios\bin\Debug\net10.0\Ejercicio10_Precios.runtimeconfig.json
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio10_Precios\bin\Debug\net10.0\Ejercicio10_Precios.dll
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio10_Precios\bin\Debug\net10.0\Ejercicio10_Precios.pdb
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio10_Precios\obj\Debug\net10.0\Ejercicio10_Precios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio10_Precios\obj\Debug\net10.0\Ejercicio10_Precios.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio10_Precios\obj\Debug\net10.0\Ejercicio10_Precios.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio10_Precios\obj\Debug\net10.0\Ejercicio10_Precios.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio10_Precios\obj\Debug\net10.0\Ejercicio10_Precios.dll
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio10_Precios\obj\Debug\net10.0\refint\Ejercicio10_Precios.dll
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio10_Precios\obj\Debug\net10.0\Ejercicio10_Precios.pdb
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio10_Precios\obj\Debug\net10.0\Ejercicio10_Precios.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio10_Precios\obj\Debug\net10.0\ref\Ejercicio10_Precios.dll

@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Ejercicio1_Listas\bin\Debug\net10.0\Ejercicio1_Listas.exe
+C:\Users\Asus\Desktop\Ejercicio1_Listas\bin\Debug\net10.0\Ejercicio1_Listas.deps.json
+C:\Users\Asus\Desktop\Ejercicio1_Listas\bin\Debug\net10.0\Ejercicio1_Listas.runtimeconfig.json
+C:\Users\Asus\Desktop\Ejercicio1_Listas\bin\Debug\net10.0\Ejercicio1_Listas.dll
+C:\Users\Asus\Desktop\Ejercicio1_Listas\bin\Debug\net10.0\Ejercicio1_Listas.pdb
+C:\Users\Asus\Desktop\Ejercicio1_Listas\obj\Debug\net10.0\Ejercicio1_Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Ejercicio1_Listas\obj\Debug\net10.0\Ejercicio1_Listas.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Ejercicio1_Listas\obj\Debug\net10.0\Ejercicio1_Listas.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Ejercicio1_Listas\obj\Debug\net10.0\Ejercicio1_Listas.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Ejercicio1_Listas\obj\Debug\net10.0\Ejercicio1_Listas.dll
+C:\Users\Asus\Desktop\Ejercicio1_Listas\obj\Debug\net10.0\refint\Ejercicio1_Listas.dll
+C:\Users\Asus\Desktop\Ejercicio1_Listas\obj\Debug\net10.0\Ejercicio1_Listas.pdb
+C:\Users\Asus\Desktop\Ejercicio1_Listas\obj\Debug\net10.0\Ejercicio1_Listas.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Ejercicio1_Listas\obj\Debug\net10.0\ref\Ejercicio1_Listas.dll

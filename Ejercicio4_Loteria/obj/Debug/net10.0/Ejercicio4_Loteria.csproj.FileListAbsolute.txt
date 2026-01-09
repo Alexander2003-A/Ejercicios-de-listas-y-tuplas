@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio4_Loteria\bin\Debug\net10.0\Ejercicio4_Loteria.exe
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio4_Loteria\bin\Debug\net10.0\Ejercicio4_Loteria.deps.json
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio4_Loteria\bin\Debug\net10.0\Ejercicio4_Loteria.runtimeconfig.json
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio4_Loteria\bin\Debug\net10.0\Ejercicio4_Loteria.dll
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio4_Loteria\bin\Debug\net10.0\Ejercicio4_Loteria.pdb
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio4_Loteria\obj\Debug\net10.0\Ejercicio4_Loteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio4_Loteria\obj\Debug\net10.0\Ejercicio4_Loteria.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio4_Loteria\obj\Debug\net10.0\Ejercicio4_Loteria.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio4_Loteria\obj\Debug\net10.0\Ejercicio4_Loteria.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio4_Loteria\obj\Debug\net10.0\Ejercicio4_Loteria.dll
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio4_Loteria\obj\Debug\net10.0\refint\Ejercicio4_Loteria.dll
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio4_Loteria\obj\Debug\net10.0\Ejercicio4_Loteria.pdb
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio4_Loteria\obj\Debug\net10.0\Ejercicio4_Loteria.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio4_Loteria\obj\Debug\net10.0\ref\Ejercicio4_Loteria.dll

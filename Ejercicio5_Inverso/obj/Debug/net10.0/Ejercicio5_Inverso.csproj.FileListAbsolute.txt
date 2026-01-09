@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio5_Inverso\bin\Debug\net10.0\Ejercicio5_Inverso.exe
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio5_Inverso\bin\Debug\net10.0\Ejercicio5_Inverso.deps.json
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio5_Inverso\bin\Debug\net10.0\Ejercicio5_Inverso.runtimeconfig.json
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio5_Inverso\bin\Debug\net10.0\Ejercicio5_Inverso.dll
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio5_Inverso\bin\Debug\net10.0\Ejercicio5_Inverso.pdb
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio5_Inverso\obj\Debug\net10.0\Ejercicio5_Inverso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio5_Inverso\obj\Debug\net10.0\Ejercicio5_Inverso.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio5_Inverso\obj\Debug\net10.0\Ejercicio5_Inverso.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio5_Inverso\obj\Debug\net10.0\Ejercicio5_Inverso.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio5_Inverso\obj\Debug\net10.0\Ejercicio5_Inverso.dll
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio5_Inverso\obj\Debug\net10.0\refint\Ejercicio5_Inverso.dll
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio5_Inverso\obj\Debug\net10.0\Ejercicio5_Inverso.pdb
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio5_Inverso\obj\Debug\net10.0\Ejercicio5_Inverso.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Ejercicio1_Listas\Ejercicio5_Inverso\obj\Debug\net10.0\ref\Ejercicio5_Inverso.dll
